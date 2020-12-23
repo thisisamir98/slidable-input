@@ -1,6 +1,6 @@
 # `<SlidableInput />`
 
-> Inspired by Adobe, to be used in [Excalidraw](https://github.com/excalidraw/excalidraw).
+> Inspired by [Adobe](https://adobe.com), to be used in [Excalidraw](https://github.com/excalidraw/excalidraw).
 
 ## Available Scripts
 
