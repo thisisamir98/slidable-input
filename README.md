@@ -1,4 +1,4 @@
-# slidable-input
+# `<SlidableInput />`
 
 > Inspired by Adobe, to be used in [Excalidraw](https://github.com/excalidraw/excalidraw).
 
